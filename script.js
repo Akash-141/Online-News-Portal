@@ -70,8 +70,3 @@ searchButton.addEventListener("click", () => {
 
 
 
-
-
-
-
-
